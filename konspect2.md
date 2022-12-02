@@ -7,3 +7,6 @@ git --version   - версия git
 git status  - статус git
 git init  - инициализация репозитория
 git diff - разница между файлами
+git log - история коммитов
+git checkout хеш - возврат к коммиту
+git checkout master - возврат в главную ветку
