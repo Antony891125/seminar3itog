@@ -7,15 +7,12 @@ git --version   - версия git
 git status  - статус git
 git init  - инициализация репозитория
 git diff - разница между файлами
-<<<<<<< HEAD
 git log - история коммитов
 git checkout хеш - возврат к коммиту
 git checkout master - возврат в главную ветку
 git branch - список веток
 git branch название - создание новой ветки
-=======
 git checkout название - переход на названную ветку
 git merge название - слить с названной веткой
 git branch -d название - удалить названную ветку
 git checkout -b название - создать ветку и перейти на неё
->>>>>>> branch3
